@@ -1,0 +1,14 @@
+### Module positions - created on 04/02/2014 10:01:25 AM ###
+### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
+## Unit = inches, Angle = deg.
+## Side : F.Cu
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+C1       0.1uF            SM0603              4.8220    -1.2230     270.0    F.Cu
+C10      22pF             SM1206              4.1390    -1.1770     270.0    F.Cu
+C11      22pF             SM1206              3.4510    -1.1720      90.0    F.Cu
+C18      0.1uF            SM0603              3.6850    -1.3550     180.0    F.Cu
+D1       POWER            LED-1206            2.9650    -1.7950     270.0    F.Cu
+R1       10k              SM1206              4.6770    -1.2250     180.0    F.Cu
+R3       1Meg             SM1206              4.0360    -1.1770      90.0    F.Cu
+R10      374              SM1206              3.0650    -1.7950     270.0    F.Cu
+## End
