@@ -1,14 +1,21 @@
-### Module positions - created on 04/02/2014 10:01:25 AM ###
+### Module positions - created on 05/08/2014 1:00:15 PM ###
 ### Printed by Pcbnew version pcbnew (2013-07-07 BZR 4022)-stable
 ## Unit = inches, Angle = deg.
 ## Side : F.Cu
 # Ref    Val                  Package         PosX       PosY        Rot     Side
-C1       0.1uF            SM0603              4.8220    -1.2230     270.0    F.Cu
-C10      22pF             SM1206              4.1390    -1.1770     270.0    F.Cu
-C11      22pF             SM1206              3.4510    -1.1720      90.0    F.Cu
-C18      0.1uF            SM0603              3.6850    -1.3550     180.0    F.Cu
-D1       POWER            LED-1206            2.9650    -1.7950     270.0    F.Cu
-R1       10k              SM1206              4.6770    -1.2250     180.0    F.Cu
-R3       1Meg             SM1206              4.0360    -1.1770      90.0    F.Cu
-R10      374              SM1206              3.0650    -1.7950     270.0    F.Cu
+C1       0.1uF            SM1206              3.8320    -1.3280     180.0    F.Cu
+C2       0.1uF            SM1206              3.3410    -2.7736     180.0    F.Cu
+C10      22pF             SM1206              3.3364    -1.8130       0.0    F.Cu
+C11      22pF             SM1206              3.3314    -2.5010     180.0    F.Cu
+C18      0.1uF            SM1206              3.5144    -2.2670     270.0    F.Cu
+D1       POWER            LED-1206            3.3722    -1.1474     270.0    F.Cu
+D2       PROG_MODE        LED-1206            3.2500    -1.1460     270.0    F.Cu
+D3       RST              LED-1206            3.1260    -1.1470     270.0    F.Cu
+R1       10k              SM1206              3.6126    -1.2640      90.0    F.Cu
+R2       1k               SM1206              2.8340    -1.8240      90.0    F.Cu
+R3       1Meg             SM1206              3.3364    -1.9160     180.0    F.Cu
+R4       1k               SM1206              2.7210    -1.8240     270.0    F.Cu
+R5       1k               SM1206              3.0600    -1.4600     270.0    F.Cu
+R10      1k               SM1206              2.9450    -1.8240     270.0    F.Cu
+U2       7400             SO14E               3.4596    -2.9820       0.0    F.Cu
 ## End
